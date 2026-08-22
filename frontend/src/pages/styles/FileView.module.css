@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+.fileContent{
+    background-color: aliceblue;
+    @apply min-w-12.5 w-[80vw] self-center rounded-xl p-2 mt-5
+}

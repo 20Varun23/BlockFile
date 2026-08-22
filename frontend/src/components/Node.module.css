@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+.folderNode{
+   background-color: #c4a7e7;
+   color: #191724;
+   @apply p-4 rounded-xl content-center text-lg text-center
+}
+
+.fileNode{
+   background-color: #9ccfd8;
+   color: #191724;
+   @apply p-4 rounded-xl content-center text-lg text-center
+}

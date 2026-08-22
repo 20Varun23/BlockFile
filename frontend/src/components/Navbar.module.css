@@ -1,0 +1,12 @@
+@import "tailwindcss";
+.navbar {
+   background-color: #6e6a86; 
+   font-size: 1.2em;
+   @apply p-2 rounded-md m-2 flex justify-between
+}
+
+.navLinks {
+    background-color: #26233a;
+    color: #e0def4;
+    @apply p-1 rounded-md m-1
+}
